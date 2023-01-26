@@ -1,2 +1,2 @@
-# PrepCousr-Henry
+# PrepCouse-Henry
 Prueba modulo 2
